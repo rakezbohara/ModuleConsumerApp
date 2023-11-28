@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ModuleConsumerIOS/Pods-ModuleConsumerIOS-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SDKSample/App.framework/App
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SDKSample/Flutter.framework/Flutter

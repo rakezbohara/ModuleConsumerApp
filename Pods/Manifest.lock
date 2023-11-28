@@ -1,0 +1,22 @@
+PODS:
+  - SDKSample (1.4)
+
+DEPENDENCIES:
+  - SDKSample (from `https://github.com/rakezbohara/sdksample.git`, branch `main`)
+
+EXTERNAL SOURCES:
+  SDKSample:
+    :branch: main
+    :git: https://github.com/rakezbohara/sdksample.git
+
+CHECKOUT OPTIONS:
+  SDKSample:
+    :commit: 08ac86f3aeb1fb6507e988e718e1e8bf72d779d4
+    :git: https://github.com/rakezbohara/sdksample.git
+
+SPEC CHECKSUMS:
+  SDKSample: b5c3b4228e425be3383924b9e88b8f47d1f16027
+
+PODFILE CHECKSUM: 9792a7a7d6476c3518d9630199ffdb6116e49c6e
+
+COCOAPODS: 1.11.3
